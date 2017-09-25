@@ -1,13 +1,13 @@
-function [x, k] = pontofixo(f, phi, x0, p1, p2)
+function [x, k] = pontofixo(f, phi, x0, e1, e2)
+if(abs(f(x0)) < e1)
+	x = x0;
+	return
+end
 k=1;
 max_iter=1000;
 while(k<max_iter)
-	if(abs(f(x0))<p1)
-		x = x0;
-		return
-	end
 	x1 = phi(x0);
-	if(abs(f(x1))<p1 || abs(x1-x0)<p2)
+	if(abs(f(x1))<e1 || abs(x1-x0)<e2)
 		x = x1;
 		return
 	end
