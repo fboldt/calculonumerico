@@ -13,7 +13,7 @@ if(abs(f(b)) < e2)
 end
 k=1;
 max_iter=1000;
-while(k<max_iter && abs(b-a)>=e1)
+while(k<max_iter)
 	fa = f(a);
 	fb = f(b);
 	m = fa;
@@ -21,7 +21,7 @@ while(k<max_iter && abs(b-a)>=e1)
 	if(abs(f(x)) < e2)
 		return
 	end
-	if(fa*f(x) > 0)
+	if(m*f(x) > 0)
 		a = x;
 	else
 		b = x;
