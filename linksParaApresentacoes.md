@@ -12,3 +12,9 @@ Aula 6 - Método de Newton-Raphson: https://docs.google.com/presentation/d/1mOYi
 
 Aula 7 - Método da Secante: https://docs.google.com/presentation/d/1Hplr0UTPstIpU5gaQ6kO8S9i19rf0Xsq1WBdqDwgOU8/edit?usp=sharing
 
+Aula 8 - Sistemas Lineares - 1: https://docs.google.com/presentation/d/1MowXJBtZ4iAU9oSUxZFcnEY2OiekPSbGsRf56gYfapE/edit?usp=sharing
+
+Aula 9 - Sistemas Lineares - 2: https://docs.google.com/presentation/d/1edlzrioxLbX_YvqoU4q2co2zvwy-FBftNSJXRsTkk-M/edit?usp=sharing
+
+Aula 10 - Sistemas Não-Lineares: https://docs.google.com/presentation/d/1pPxKtiPO19QcYbmdW0ddzD1Kpkvcdr98w25MbUssxUQ/edit?usp=sharing
+
