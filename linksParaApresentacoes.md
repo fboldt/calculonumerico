@@ -18,3 +18,5 @@ Aula 9 - Sistemas Lineares - 2: https://docs.google.com/presentation/d/1edlzriox
 
 Aula 10 - Sistemas Não-Lineares: https://docs.google.com/presentation/d/1pPxKtiPO19QcYbmdW0ddzD1Kpkvcdr98w25MbUssxUQ/edit?usp=sharing
 
+Aula 11 - Interpolação: https://docs.google.com/presentation/d/1hQlFuf37NBS_ltanA95AmpplpQNOxSjp40D1sXKwl0Y/edit?usp=sharing
+
