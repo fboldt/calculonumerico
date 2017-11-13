@@ -20,3 +20,5 @@ Aula 10 - Sistemas Não-Lineares: https://docs.google.com/presentation/d/1pPxKti
 
 Aula 11 - Interpolação: https://docs.google.com/presentation/d/1hQlFuf37NBS_ltanA95AmpplpQNOxSjp40D1sXKwl0Y/edit?usp=sharing
 
+Aula 12 - Regressão Linear por Mínimos Quadrados: https://docs.google.com/presentation/d/1cVa3cfCfrz4SP0mYT2i482-01x1eJS_J-MpZ9_MGtoQ/edit?usp=sharing
+
