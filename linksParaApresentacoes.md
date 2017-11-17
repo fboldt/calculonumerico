@@ -30,3 +30,4 @@ Aula 15 - Integração Numérica: https://docs.google.com/presentation/d/1_6kdae
 
 Aual 16 - Integração Numérica: https://docs.google.com/presentation/d/1krYl_2YpILi48iWROHyVm22YqJtui4zfaVEQGGILqF8/edit?usp=sharing
 
+Aula 17 - Diferenciação Numérica: https://docs.google.com/presentation/d/1tuL7SNdHSY6ZXs5BEbxGMU6JAB8Y-X1elHBEmEux6_U/edit?usp=sharing
