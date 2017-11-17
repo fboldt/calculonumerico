@@ -31,3 +31,13 @@ Aula 15 - Integração Numérica: https://docs.google.com/presentation/d/1_6kdae
 Aual 16 - Integração Numérica: https://docs.google.com/presentation/d/1krYl_2YpILi48iWROHyVm22YqJtui4zfaVEQGGILqF8/edit?usp=sharing
 
 Aula 17 - Diferenciação Numérica: https://docs.google.com/presentation/d/1tuL7SNdHSY6ZXs5BEbxGMU6JAB8Y-X1elHBEmEux6_U/edit?usp=sharing
+
+Aula 18 - Equações Diferenciais Ordinárias - Parte 1: https://docs.google.com/presentation/d/1wHRD4hPpAPGUBRZvNjbVQH9tG2k1Y0NrYASFUqN_OEY/edit?usp=sharing
+
+Aula 19 - Equações Diferenciais Ordinárias - Parte 2: https://docs.google.com/presentation/d/1I1AXdDW3AljYUlcTUTtjt08ittMSSEZrWc9Gy93h-7Q/edit?usp=sharing
+
+Aula 20 - Equações Diferenciais Ordinárias - Parte 3: https://docs.google.com/presentation/d/1jlzLz2d1g65DN1UrM6ttC_St0Zd2aeXrRaCQUHfhwB8/edit?usp=sharing
+
+Aula 21 - Equações Diferenciais Ordinárias - Parte 4: https://docs.google.com/presentation/d/1kQeR4dydVfWqDKSc8bu_-BFBsJQEttywnFxu121TNQM/edit?usp=sharing
+
+Aula 22 - Equações Diferenciais Ordinárias - Parte 5: https://docs.google.com/presentation/d/1Eq5_HQ-Uyv6QdhUT0l2QDQvmyMMhM-G14OYNDeoZmSQ/edit?usp=sharing
