@@ -22,3 +22,4 @@ Aula 11 - Interpolação: https://docs.google.com/presentation/d/1hQlFuf37NBS_lt
 
 Aula 12 - Regressão Linear por Mínimos Quadrados: https://docs.google.com/presentation/d/1cVa3cfCfrz4SP0mYT2i482-01x1eJS_J-MpZ9_MGtoQ/edit?usp=sharing
 
+Aula 13 - Regressão Linear Geral por Mínimos Quadrados: https://docs.google.com/presentation/d/1fjWwgV8oSipHsLEwAWdsdZ53BCbIvIUvzumsqtVLQYY/edit?usp=sharing
