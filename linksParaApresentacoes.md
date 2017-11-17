@@ -28,3 +28,5 @@ Aula 14 - Regressão Não-Linear: https://docs.google.com/presentation/d/14z66Da
 
 Aula 15 - Integração Numérica: https://docs.google.com/presentation/d/1_6kdaeiD2xHQEWrd-4peC6UrJ_AQATMzWWX1jsMmL6A/edit?usp=sharing
 
+Aual 16 - Integração Numérica: https://docs.google.com/presentation/d/1krYl_2YpILi48iWROHyVm22YqJtui4zfaVEQGGILqF8/edit?usp=sharing
+
