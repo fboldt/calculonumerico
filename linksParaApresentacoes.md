@@ -26,9 +26,9 @@ Aula 13 - Regressão Linear Geral por Mínimos Quadrados: https://docs.google.co
 
 Aula 14 - Regressão Não-Linear: https://docs.google.com/presentation/d/14z66DaSbvIjztYFOOZx23K8T7BK9ibhU91v63oGF5BE/edit?usp=sharing
 
-Aula 15 - Integração Numérica: https://docs.google.com/presentation/d/1_6kdaeiD2xHQEWrd-4peC6UrJ_AQATMzWWX1jsMmL6A/edit?usp=sharing
+Aula 15 - Integração Numérica - Parte 1: https://docs.google.com/presentation/d/1_6kdaeiD2xHQEWrd-4peC6UrJ_AQATMzWWX1jsMmL6A/edit?usp=sharing
 
-Aual 16 - Integração Numérica: https://docs.google.com/presentation/d/1krYl_2YpILi48iWROHyVm22YqJtui4zfaVEQGGILqF8/edit?usp=sharing
+Aual 16 - Integração Numérica - Parte 2: https://docs.google.com/presentation/d/1krYl_2YpILi48iWROHyVm22YqJtui4zfaVEQGGILqF8/edit?usp=sharing
 
 Aula 17 - Diferenciação Numérica: https://docs.google.com/presentation/d/1tuL7SNdHSY6ZXs5BEbxGMU6JAB8Y-X1elHBEmEux6_U/edit?usp=sharing
 
