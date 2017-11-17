@@ -25,3 +25,6 @@ Aula 12 - Regressão Linear por Mínimos Quadrados: https://docs.google.com/pres
 Aula 13 - Regressão Linear Geral por Mínimos Quadrados: https://docs.google.com/presentation/d/1fjWwgV8oSipHsLEwAWdsdZ53BCbIvIUvzumsqtVLQYY/edit?usp=sharing
 
 Aula 14 - Regressão Não-Linear: https://docs.google.com/presentation/d/14z66DaSbvIjztYFOOZx23K8T7BK9ibhU91v63oGF5BE/edit?usp=sharing
+
+Aula 15 - Integração Numérica: https://docs.google.com/presentation/d/1_6kdaeiD2xHQEWrd-4peC6UrJ_AQATMzWWX1jsMmL6A/edit?usp=sharing
+
